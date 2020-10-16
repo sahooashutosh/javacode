@@ -11,6 +11,10 @@ public static void main(String args[]){
   for(int i = 0;i<n;i++){
     arr2[i] = sc.nextInt();
   }
-}
+  int n2 = sc.nextInt();
+  int[] arr3 = new int[n2];
+  for(int val : arr3){
+    arr3[val] = sc.nextInt();
+  }
 }
   
